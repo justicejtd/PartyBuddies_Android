@@ -1,4 +1,4 @@
-# Party Buddies Duo app (Justice, Kalina)
+# Party Buddies Duo app
 
 Our duo application can be found in the PartyBuddies folder, to open the files
 Android studio is required. This application
